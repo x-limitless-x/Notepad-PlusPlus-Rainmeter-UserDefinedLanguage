@@ -6,4 +6,4 @@ Import this XML File into your Languages for Notepad++. Look under
 
     Language Menu -> Define your language... -> Import
 
-    Select [Rainmeter] in the Language Drop Down Menu after importing and you are set!
+    Select [Rainmeter4.3.0] in the Language Drop Down Menu after importing and you are set!
